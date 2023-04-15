@@ -1,6 +1,6 @@
 # Anastasiia Kurenyova
 ## Software Testing Engineer
-### Epam Systems? Ukraine
+### Epam Systems, Ukraine
 
 **CV Summary**
 
@@ -15,7 +15,7 @@
 - API test development (Java, C#)
 - Demo for customers (for specific tasks)
 
-**Tools**
+*Tools*
 * Microsoft SQL Server Management Studio
 * Zephyr Squad (Jira plugin)
 * Git, Maven, Jenkins
@@ -25,7 +25,7 @@
 * Figma
 
 
-**Technologies**
+*Technologies*
 * Functional testing
 * Web Service testing
 * Automated testing in Java
