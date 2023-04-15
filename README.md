@@ -1,15 +1,35 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
+# Anastasiia Kurenyova
+## Software Testing Engineer
+### Epam Systems? Ukraine
 
-**This is bold text**
+**CV Summary**
 
-*This text is italicized*
+*From September / 2019 - till now* - Software Testing Engineer - Epam Systems
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+- Performed manual functional testing
+- Regression and exploratory testing
+- Analyzed and documented defects using bug tracking tools
+- API testing (Postman, Swagger)
+- Working with MS SQL and My SQL dbs
+- UI Selenium test development (Java, C#)
+- API test development (Java, C#)
+- Demo for customers (for specific tasks)
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+**Tools**
+* Microsoft SQL Server Management Studio
+* Zephyr Squad (Jira plugin)
+* Git, Maven, Jenkins
+* Postman, Swaggert, Fiddler
+* Jira, Confluence
+* Team Foundation Server
+* Figma
 
-- George Washington
-* John Adams
-+ Thomas Jefferson
+
+**Technologies**
+* Functional testing
+* Web Service testing
+* Automated testing in Java
+* Automated testing in C#
+* Selenium WebDriver
+* Karate-Junit5
+* SQL
